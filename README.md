@@ -12,7 +12,7 @@ To analyze factors affecting insurance charges such as BMI, age, smoking, number
 
 ## 🧱 Project Structure
 
-- **Sheet 1 and 2:** Clean Data, KPI calculations, and Pivot Tables  
+- **Sheet 1 & 2:** Clean Data, KPI calculations, and Pivot Tables  
 - **Sheet 3:** Data Cleaning Log  
 - **Sheet 4:** Dashboard with visualizations and insights  
 
